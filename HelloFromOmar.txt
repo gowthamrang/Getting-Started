@@ -7,5 +7,3 @@ new update.
 Updating for PR 2
 
 second commit for PR 2
-
-Third commit for PR 2
