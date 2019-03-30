@@ -2,6 +2,7 @@ Updating PR 1- Hello from Omar
 
 
 new update.
+<<<<<<< HEAD
 
 
 first commit for PR 2 after working on the latest file fetched from upstream. Synced with upstream so that the fork had the same files as that of the main master branch of upstream
@@ -14,3 +15,5 @@ first commit for PR 2 after working on the latest file fetched from upstream. Sy
 askjdaksdn
 
  294a6875a4674e0521b4b89c07de539b8d150991
+=======
+>>>>>>> parent of 1a93a5a... Squashing the first commits of PR 2
